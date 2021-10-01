@@ -1,0 +1,11 @@
+.reviewItem {
+  border-bottom: 3px solid lightgray;
+  padding-bottom: 5px;
+  margin-left: 200px;
+}
+.another {
+  display: flex;
+}
+.sellerQuantity {
+  margin-right: 30px;
+}

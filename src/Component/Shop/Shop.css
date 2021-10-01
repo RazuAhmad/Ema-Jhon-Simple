@@ -1,0 +1,15 @@
+* {
+  list-style-type: none;
+}
+.shop-container {
+  display: flex;
+}
+.product-container {
+  width: 80%;
+  margin: 8px 6px 8px 204px;
+  border-right: 1px solid lightgray;
+  padding: 10px;
+  /* margin: 7px 0px 7px 0px; */
+}
+.addTo-Cart {
+}
