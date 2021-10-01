@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const Cart = (props) => {
-  // console.log(props);
   const cart = props.cart;
   const reducer = cart.reduce(
     (totals, product) => totals + product.price * product.quantity,
